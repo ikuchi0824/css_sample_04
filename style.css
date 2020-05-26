@@ -1,0 +1,33 @@
+body {
+    background-color: orange;
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-image : url("images/bg_image_01.jpg");
+    background-size: 200px 100px;
+}
+
+header {
+    padding: 40px;
+    height: 80px;
+}
+
+nav {
+    padding: 8px 40px;
+    background-color: black;
+    color: green;
+}
+
+#contents{
+    padding: 40px;
+    height : 400px;
+}
+
+footer {
+    padding: 40px;
+    height: 40px;
+    background-color : black;
+    color: white;
+}
